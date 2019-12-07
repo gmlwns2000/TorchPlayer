@@ -19,3 +19,5 @@ UWP front-end of libVLCx
  - [ ] Custom subtitles
  - [ ] EQ options
  - [ ] Play in background option
+ - [ ] Keyboard shortcut
+ - [ ] PIP support
